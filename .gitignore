@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Project Data and Images
-event_data
-images
+event_data/*
+images/*
