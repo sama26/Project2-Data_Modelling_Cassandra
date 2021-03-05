@@ -131,3 +131,4 @@ dmypy.json
 # Project Data and Images
 event_data/*
 images/*
+event_datafile_new.csv
